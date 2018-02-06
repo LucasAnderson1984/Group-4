@@ -1,11 +1,11 @@
 # Slytherin
 
-## Group 3
+Group 3
 
 ## Team Members
-Lucas Anderson - Leader
-Sayali Mane
-Matthew Morado
-Cristian Lopez-Flores
-Neetakshi Sharma
-Jeewaka Perera
+- Lucas Anderson - Leader
+- Sayali Mane
+- Matthew Morado
+- Cristian Lopez-Flores
+- Neetakshi Sharma
+- Jeewaka Perera
